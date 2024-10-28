@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\utils\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\utils\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\appusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\appusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\shared\\_solmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\shared\\_solmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\shared\\_ustbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\shared\\_ustbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\appusers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\appusers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82054DD7-9BDE-4D1A-BA2F-2442CE9136F8}|ETicaretCore\\ETicaretCore.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretcore\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82054DD7-9BDE-4D1A-BA2F-2442CE9136F8}|ETicaretCore\\ETicaretCore.csproj|solutionrelative:eticaretcore\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82054DD7-9BDE-4D1A-BA2F-2442CE9136F8}|ETicaretCore\\ETicaretCore.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretcore\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82054DD7-9BDE-4D1A-BA2F-2442CE9136F8}|ETicaretCore\\ETicaretCore.csproj|solutionrelative:eticaretcore\\entities\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\controllers\\appuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\areas\\admin\\views\\appusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\areas\\admin\\views\\appusers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC750F5-C6FE-43CB-980E-28BD2B796AD1}|ETicaretData\\ETicaretData.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretdata\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC750F5-C6FE-43CB-980E-28BD2B796AD1}|ETicaretData\\ETicaretData.csproj|solutionrelative:eticaretdata\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretweb\\wwwroot\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D98D1607-1B31-47F6-AAE5-DB77599D7A6C}|ETicaretWeb\\ETicaretWeb.csproj|solutionrelative:eticaretweb\\wwwroot\\admin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC750F5-C6FE-43CB-980E-28BD2B796AD1}|ETicaretData\\ETicaretData.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretdata\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC750F5-C6FE-43CB-980E-28BD2B796AD1}|ETicaretData\\ETicaretData.csproj|solutionrelative:eticaretdata\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC750F5-C6FE-43CB-980E-28BD2B796AD1}|ETicaretData\\ETicaretData.csproj|c:\\users\\bkesk\\source\\repos\\eticaret\\eticaretdata\\configurations\\contactconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC750F5-C6FE-43CB-980E-28BD2B796AD1}|ETicaretData\\ETicaretData.csproj|solutionrelative:eticaretdata\\configurations\\contactconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_SolMenu.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_SolMenu.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_SolMenu.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_SolMenu.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_SolMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:03:32.944Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Utils\\FileHelper.cs",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Utils\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Utils\\FileHelper.cs",
+              "RelativeToolTip": "ETicaretWeb\\Utils\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:52:48.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:32:37.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:30:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Controllers\\BrandsController.cs*",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Controllers\\BrandsController.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:29:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Delete.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:16:52.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Index.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:23:08.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Create.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Create.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:16:50.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:38:14.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_UstBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_UstBar.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_UstBar.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_UstBar.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\Shared\\_UstBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:03:05.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:03:00.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretCore\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "ETicaretCore\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretCore\\Entities\\AppUser.cs",
+              "RelativeToolTip": "ETicaretCore\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:56:08.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:42:02.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Edit.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:07:20.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T13:50:59.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretCore\\Entities\\Brand.cs",
+              "RelativeDocumentMoniker": "ETicaretCore\\Entities\\Brand.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretCore\\Entities\\Brand.cs",
+              "RelativeToolTip": "ETicaretCore\\Entities\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:59:10.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Controllers\\AppUsersController.cs",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Controllers\\AppUsersController.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Controllers\\AppUsersController.cs",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Controllers\\AppUsersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:16:14.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:42:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Program.cs",
+              "RelativeToolTip": "ETicaretWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:21:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Details.cshtml",
+              "RelativeToolTip": "ETicaretWeb\\Areas\\Admin\\Views\\AppUsers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:16:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretData\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "ETicaretData\\DataBaseContext.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretData\\DataBaseContext.cs",
+              "RelativeToolTip": "ETicaretData\\DataBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:17:16.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\index.html",
+              "RelativeDocumentMoniker": "ETicaretWeb\\wwwroot\\admin\\index.html",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\index.html",
+              "RelativeToolTip": "ETicaretWeb\\wwwroot\\admin\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJUCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-27T16:38:55.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContactConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretData\\Configurations\\ContactConfiguration.cs",
+              "RelativeDocumentMoniker": "ETicaretData\\Configurations\\ContactConfiguration.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretData\\Configurations\\ContactConfiguration.cs",
+              "RelativeToolTip": "ETicaretData\\Configurations\\ContactConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:17:19.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretData\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "ETicaretData\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretData\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "ETicaretData\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:17:20.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
