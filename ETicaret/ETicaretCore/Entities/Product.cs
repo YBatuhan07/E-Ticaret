@@ -16,6 +16,6 @@
         public int? BrandId { get; set; }
         public Brand? Brand { get; set; }
         public int OrderNo { get; set; } // Sıralamak için kullanılır. Örneğin 1 de telefonlar görünsün. 2 de Tabletler gibi. Filtrelemelerde kullanılacak
-        public DateTime CreateDate { get; set; }
+        public DateTime CreateDate { get; set; } = DateTime.Now;
     }
 }

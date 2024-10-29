@@ -89,6 +89,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.png",
+      "PackagePath": "staticwebassets\\img\\apple.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\samsung.png",
+      "PackagePath": "staticwebassets\\img\\samsung.png"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

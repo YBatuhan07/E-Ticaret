@@ -19,7 +19,7 @@ public class Brand : IEntity
     [DisplayName("Ürünler")]
     public IList<Product>? Products { get; set; } // IList kullanıldı
     [DisplayName("Eklenme Tarihi")]
-    public DateTime CreateDate { get; set; }
+    public DateTime CreateDate { get; set; } = DateTime.Now;
 
 
 }
