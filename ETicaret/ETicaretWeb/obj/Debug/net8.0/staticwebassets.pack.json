@@ -89,8 +89,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto1.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\foto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto2.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\foto2.jpg"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.png",
       "PackagePath": "staticwebassets\\img\\apple.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\foto3.jpg",
+      "PackagePath": "staticwebassets\\img\\foto3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\foto4.jpg",
+      "PackagePath": "staticwebassets\\img\\foto4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\ngc602_webb_5863.jpg",
+      "PackagePath": "staticwebassets\\img\\ngc602_webb_5863.jpg"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\samsung.png",

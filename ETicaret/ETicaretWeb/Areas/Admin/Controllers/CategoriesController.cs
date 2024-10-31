@@ -1,5 +1,6 @@
 ﻿using ETicaretCore.Entities;
 using ETicaretData;
+using ETicaretWeb.Utils;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -52,14 +53,16 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Category category)
+        public async Task<IActionResult> Create(Category category,IFormFile? Image)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(category);
+                category.Image = await FileHelper.FileLoaderAsync(Image, "/Img/Categories/");
+                await _context.AddAsync(category);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
+            ViewBag.Categ = new SelectList(_context.Categories, "Id", "Name");
             return View(category);
         }
 
@@ -76,6 +79,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
             {
                 return NotFound();
             }
+            ViewBag.Categ = new SelectList(_context.Categories, "Id", "Name");
             return View(category);
         }
 
@@ -84,7 +88,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Description,Image,IsActive,IsTopMenu,ParentId,OrderNo,CreateDate")] Category category)
+        public async Task<IActionResult> Edit(int id, Category category, IFormFile? Image, bool cbResmiSil = false)
         {
             if (id != category.Id)
             {
@@ -95,6 +99,14 @@ namespace ETicaretWeb.Areas.Admin.Controllers
             {
                 try
                 {
+                    if (cbResmiSil)
+                    {
+                        category.Image = string.Empty;
+                    }
+                    if (Image is not null)
+                    {
+                        category.Image = await FileHelper.FileLoaderAsync(Image, "/Img/Categories/");
+                    }
                     _context.Update(category);
                     await _context.SaveChangesAsync();
                 }
@@ -111,6 +123,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
+            ViewBag.Categ = new SelectList(_context.Categories, "Id", "Name");
             return View(category);
         }
 
@@ -140,6 +153,10 @@ namespace ETicaretWeb.Areas.Admin.Controllers
             var category = await _context.Categories.FindAsync(id);
             if (category != null)
             {
+                if (!string.IsNullOrEmpty(category.Image))
+                {
+                    FileHelper.FileRemover(category.Image, "/Img/Categories/");
+                }
                 _context.Categories.Remove(category);
             }
 
