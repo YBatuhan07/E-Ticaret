@@ -14,9 +14,9 @@ public class Brand : IEntity
     public string? Logo { get; set; } // Resim dosyalarını nullable olarak tanımla. Sorun çıkartabilir
     [DisplayName("Aktif mi?")]
     public bool IsActive { get; set; }
-    [DisplayName("Ürün no")]
+    [DisplayName("Marka no")]
     public int OrderNo { get; set; }
-    [DisplayName("Ürünler")]
+    [DisplayName("Markalar")]
     public IList<Product>? Products { get; set; } // IList kullanıldı
     [DisplayName("Eklenme Tarihi")]
     public DateTime CreateDate { get; set; } = DateTime.Now;

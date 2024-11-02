@@ -89,8 +89,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\1200px-lenovo_global_corporate_logo.png",
+      "PackagePath": "staticwebassets\\img\\1200px-lenovo_global_corporate_logo.png"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\apple.png",
+      "PackagePath": "staticwebassets\\img\\Categories\\apple.png"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto1.jpg",
@@ -99,6 +107,26 @@
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto2.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\foto2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\samsung.png",
+      "PackagePath": "staticwebassets\\img\\Categories\\samsung.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\lenovo.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\lenovo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\msi.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\msi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\2024-porsche-panamera-turbo-e-hybrid-001-2160.jpg",
+      "PackagePath": "staticwebassets\\img\\Slider\\2024-porsche-panamera-turbo-e-hybrid-001-2160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\foto1.jpg",
+      "PackagePath": "staticwebassets\\img\\Slider\\foto1.jpg"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.png",
@@ -111,6 +139,14 @@
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\foto4.jpg",
       "PackagePath": "staticwebassets\\img\\foto4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi.jpg",
+      "PackagePath": "staticwebassets\\img\\msi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi_logo.jpg",
+      "PackagePath": "staticwebassets\\img\\msi_logo.jpg"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\ngc602_webb_5863.jpg",
