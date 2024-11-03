@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using ETicaretCore.Entities;
+using ETicaretData;
+using ETicaretWeb.Utils;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ETicaretCore.Entities;
-using ETicaretData;
-using ETicaretWeb.Utils;
-using System.Drawing.Drawing2D;
 
 namespace ETicaretWeb.Areas.Admin.Controllers
 {

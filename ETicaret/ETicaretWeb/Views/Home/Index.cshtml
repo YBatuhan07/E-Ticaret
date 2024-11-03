@@ -1,9 +1,16 @@
-﻿@{
-    ViewData["Title"] = "Admin Anasayfa";
+﻿@model HomePageViewModel
+@{
+    ViewData["Title"] = "Anasayfa";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Admin Panel İçin Tıklayınız</h1>
-    <a class="btn btn-primary" href="/admin/">Admin</a>
+<partial name="_Slider"model="Model.Sliders"/>
 
+<div class="my-5">
+    <h1 class="text-center">Ürünler</h1>
+    <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+        @foreach (var item in Model.Products)
+        {
+            <partial name="_ProductView" model="item"/>
+        }
+    </div>
 </div>

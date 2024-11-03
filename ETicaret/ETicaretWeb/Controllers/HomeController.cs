@@ -1,24 +1,36 @@
+using ETicaretData;
 using ETicaretWeb.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace ETicaretWeb.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly DataBaseContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(DataBaseContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var model = new HomePageViewModel 
+            {
+                Sliders = await _context.Sliders.ToListAsync(),
+                News = await _context.News.ToListAsync(),
+                Products = await _context.Products.Where(x => x.IsActive && x.IsHome).ToListAsync()
+            };
+            return View(model);
         }
 
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult ContactUs()
         {
             return View();
         }
