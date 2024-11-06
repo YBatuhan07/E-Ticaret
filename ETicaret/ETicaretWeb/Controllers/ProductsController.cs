@@ -1,4 +1,5 @@
 ﻿using ETicaretData;
+using ETicaretWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -33,8 +34,13 @@ namespace ETicaretWeb.Controllers
             {
                 return NotFound();
             }
-
-            return View(product);
+            var model = new ProductDetailViewModel
+            {
+                Product = product,
+                RelatedProducts = _context.Products.Where(p =>
+                p.IsActive && p.CategoryId == product.CategoryId && p.Id != product.Id)
+            };
+            return View(model);
         }
     }
 }

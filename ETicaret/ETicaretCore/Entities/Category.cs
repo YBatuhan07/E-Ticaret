@@ -17,7 +17,7 @@ public class Category : IEntity
     public bool IsTopMenu { get; set; }
     [Display(Name = "Üst kategori")]
     public int ParentId { get; set; }
-    [Display(Name = "Ürün no")]
+    [Display(Name = "Sıra no")]
     public int OrderNo { get; set; } // Sıralamak için kullanılır. Örneğin 1 de telefonlar görünsün. 2 de Tabletler gibi. Filtrelemelerde kullanılacak
     [Display(Name = "Eklenme Tarihi")]
     public DateTime CreateDate { get; set; } = DateTime.Now;

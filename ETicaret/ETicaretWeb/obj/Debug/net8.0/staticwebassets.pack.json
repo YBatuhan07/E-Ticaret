@@ -101,6 +101,14 @@
       "PackagePath": "staticwebassets\\img\\Categories\\apple.png"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\b_profilo-bd3055iecn-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\b_profilo-bd3055iecn-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\b_sa.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\b_sa.jpg"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto1.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\foto1.jpg"
     },
@@ -113,8 +121,44 @@
       "PackagePath": "staticwebassets\\img\\Categories\\samsung.png"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\shopping.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\shopping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\apple.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\apple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_profilo-bd3055iecn-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_profilo-bd3055iecn-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_profilo-bd3055iecn-2.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_profilo-bd3055iecn-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_sa.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_sa.jpg"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\lenovo.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\lenovo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_apple-ipad-p.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\m_apple-ipad-p.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_lg-oled97m39la-8.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\m_lg-oled97m39la-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_samsung-.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\m_samsung-.jpg"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\msi.jpg",
@@ -129,16 +173,48 @@
       "PackagePath": "staticwebassets\\img\\Slider\\foto1.jpg"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.jpg",
+      "PackagePath": "staticwebassets\\img\\apple.jpg"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.png",
       "PackagePath": "staticwebassets\\img\\apple.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\foto3.jpg",
-      "PackagePath": "staticwebassets\\img\\foto3.jpg"
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_profilo-bd3055iecn-1.jpg",
+      "PackagePath": "staticwebassets\\img\\b_profilo-bd3055iecn-1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\foto4.jpg",
-      "PackagePath": "staticwebassets\\img\\foto4.jpg"
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_profilo-bd3055iecn-2.jpg",
+      "PackagePath": "staticwebassets\\img\\b_profilo-bd3055iecn-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_sa.jpg",
+      "PackagePath": "staticwebassets\\img\\b_sa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya1.jpg",
+      "PackagePath": "staticwebassets\\img\\kampanya1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya2.jpg",
+      "PackagePath": "staticwebassets\\img\\kampanya2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya3.jpg",
+      "PackagePath": "staticwebassets\\img\\kampanya3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya4.jpg",
+      "PackagePath": "staticwebassets\\img\\kampanya4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lg_logo_(2014).svg.png",
+      "PackagePath": "staticwebassets\\img\\lg_logo_(2014).svg.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg",
+      "PackagePath": "staticwebassets\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi.jpg",
@@ -155,6 +231,10 @@
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\samsung.png",
       "PackagePath": "staticwebassets\\img\\samsung.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\vestel_logo.svg.png",
+      "PackagePath": "staticwebassets\\img\\vestel_logo.svg.png"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\js\\site.js",
