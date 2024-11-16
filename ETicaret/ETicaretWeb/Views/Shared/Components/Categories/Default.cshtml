@@ -10,7 +10,9 @@
             <ul class="dropdown-menu">
                 @foreach (var item2 in Model.Where(x => x.IsActive && x.IsTopMenu && x.ParentId == item.Id))
                 {
-                    <li><a class="dropdown-item" href="/Categories/Index/@item.Id">@item.Name</a></li>
+                    <li><a style ="width: 10px;" class="dropdown-item" href="/Categories/Index/@item2.Id">@item2.Name</a>
+
+                    </li>
                 }
             </ul>
         </div>

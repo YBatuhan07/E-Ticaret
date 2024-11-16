@@ -125,6 +125,10 @@
       "PackagePath": "staticwebassets\\img\\Categories\\shopping.jpg"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Designer (2).png",
+      "PackagePath": "staticwebassets\\img\\Designer (2).png"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\apple.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\apple.jpg"
     },
@@ -169,8 +173,32 @@
       "PackagePath": "staticwebassets\\img\\Slider\\2024-porsche-panamera-turbo-e-hybrid-001-2160.jpg"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (3).jpeg",
+      "PackagePath": "staticwebassets\\img\\Slider\\designer (3).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (4).jpeg",
+      "PackagePath": "staticwebassets\\img\\Slider\\designer (4).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (5).jpeg",
+      "PackagePath": "staticwebassets\\img\\Slider\\designer (5).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (6).jpeg",
+      "PackagePath": "staticwebassets\\img\\Slider\\designer (6).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (7).jpeg",
+      "PackagePath": "staticwebassets\\img\\Slider\\designer (7).jpeg"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\foto1.jpg",
       "PackagePath": "staticwebassets\\img\\Slider\\foto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\tasarım.png",
+      "PackagePath": "staticwebassets\\img\\Slider\\tasarım.png"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.jpg",

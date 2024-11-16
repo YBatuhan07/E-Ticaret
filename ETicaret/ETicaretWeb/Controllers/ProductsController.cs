@@ -13,10 +13,10 @@ namespace ETicaretWeb.Controllers
         {
             _context = context;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string q = "")
         {
             var dataBaseContext = _context.Products.Where(p => 
-            p.IsActive).Include(p => p.Brand).Include(p => p.Category);
+            p.IsActive && p.Name.Contains(q) || p.Description.Contains(q)).Include(p => p.Brand).Include(p => p.Category);
             return View(await dataBaseContext.ToListAsync());
         }
         public async Task<IActionResult> Details(int? id)
