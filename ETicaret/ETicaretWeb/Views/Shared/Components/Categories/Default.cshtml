@@ -3,15 +3,14 @@
     foreach (var item in Model.Where(x => x.IsActive && x.IsTopMenu && x.ParentId == 0))
     {
         <div class="dropdown">
-            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <a class="dropdown-toggle nav-link text-dark" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 @item.Name
             </a>
 
             <ul class="dropdown-menu">
-                @foreach (var item2 in Model.Where(x => x.IsActive && x.IsTopMenu && x.ParentId == item.Id))
+                @foreach (var altKategori in Model.Where(x => x.IsActive && x.IsTopMenu && x.ParentId == item.Id))
                 {
-                    <li><a style ="width: 10px;" class="dropdown-item" href="/Categories/Index/@item2.Id">@item2.Name</a>
-
+                    <li><a class="dropdown-item" href="/Categories/Index/@altKategori.Id">@altKategori.Name</a>
                     </li>
                 }
             </ul>

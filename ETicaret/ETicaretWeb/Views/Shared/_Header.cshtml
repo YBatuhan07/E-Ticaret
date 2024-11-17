@@ -26,8 +26,16 @@
                     <input name="q" type="search" class="form-control" placeholder="Ara..." aria-label="Search">
                 </form>
                 <div class="text-end">
-                    <button type="button" class="btn btn-primary me-2">Giriş Yap</button>
-                    <button type="button" class="btn btn-warning">Üye Ol</button>
+                    <div class="dropdown">
+                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Giriş yap
+                        </a>
+
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="/Account/SignIn">Giriş</a></li>
+                            <li><a class="dropdown-item" href="/Account/SignUp">Üye Ol</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>

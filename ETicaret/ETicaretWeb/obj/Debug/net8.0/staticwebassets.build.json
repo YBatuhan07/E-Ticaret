@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DRDp3BZgvnd+wKTKwZ3paUp1pKOCzdr8gyu/IxH6ecg=",
+  "Hash": "LmfSWu4ECeQI+cv8/lAr0xCi+hjdNH1SwSxhM86NflA=",
   "Source": "ETicaretWeb",
   "BasePath": "_content/ETicaretWeb",
   "Mode": "Default",
@@ -815,6 +815,25 @@
       "OriginalItemSpec": "wwwroot\\img\\kampanya4.jpg"
     },
     {
+      "Identity": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lenovo.jpg",
+      "SourceId": "ETicaretWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\",
+      "BasePath": "_content/ETicaretWeb",
+      "RelativePath": "img/lenovo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\lenovo.jpg"
+    },
+    {
       "Identity": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lg_logo_(2014).svg.png",
       "SourceId": "ETicaretWeb",
       "SourceType": "Discovered",
@@ -851,6 +870,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_lg-oled97m39la-8.jpg",
+      "SourceId": "ETicaretWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\",
+      "BasePath": "_content/ETicaretWeb",
+      "RelativePath": "img/m_lg-oled97m39la-8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\m_lg-oled97m39la-8.jpg"
     },
     {
       "Identity": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi.jpg",

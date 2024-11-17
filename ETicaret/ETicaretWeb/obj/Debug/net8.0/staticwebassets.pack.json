@@ -237,12 +237,20 @@
       "PackagePath": "staticwebassets\\img\\kampanya4.jpg"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lenovo.jpg",
+      "PackagePath": "staticwebassets\\img\\lenovo.jpg"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lg_logo_(2014).svg.png",
       "PackagePath": "staticwebassets\\img\\lg_logo_(2014).svg.png"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg",
       "PackagePath": "staticwebassets\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_lg-oled97m39la-8.jpg",
+      "PackagePath": "staticwebassets\\img\\m_lg-oled97m39la-8.jpg"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi.jpg",
