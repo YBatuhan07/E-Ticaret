@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ETicaretWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ETicaretWeb.bundle.scp.css"
+      "PackagePath": "staticwebassets\\ETicaretWeb.q0tcv55lc0.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\401.html",
@@ -503,6 +503,10 @@
     {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ETicaretWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ETicaretWeb.Microsoft.AspNetCore.StaticWebAssets.props",

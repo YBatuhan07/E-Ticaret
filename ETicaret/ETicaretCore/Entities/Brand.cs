@@ -7,7 +7,7 @@ public class Brand : IEntity
     [DisplayName("Id")]
     public int Id { get; set; }
     [DisplayName("Ürün Adı")]
-    public string Name { get; set; }
+    public string Name { get; set; } = default!;
     [DisplayName("Açıklama")]
     public string? Description { get; set; }
     [DisplayName("Logo")]

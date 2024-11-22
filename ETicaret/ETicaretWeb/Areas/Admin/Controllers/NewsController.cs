@@ -1,12 +1,14 @@
 ﻿using ETicaretCore.Entities;
 using ETicaretData;
 using ETicaretWeb.Utils;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ETicaretWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class NewsController : Controller
     {
         private readonly DataBaseContext _context;

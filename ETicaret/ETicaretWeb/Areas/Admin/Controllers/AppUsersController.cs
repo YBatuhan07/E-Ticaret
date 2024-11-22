@@ -1,11 +1,13 @@
 ﻿using ETicaretCore.Entities;
 using ETicaretData;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ETicaretWeb.Areas.Admin.Controllers;
 
 [Area("Admin")]
+[Authorize]
 public class AppUsersController : Controller
 {
     private readonly DataBaseContext _context;
@@ -45,9 +47,6 @@ public class AppUsersController : Controller
         return View();
     }
 
-    // POST: Admin/AppUsers/Create
-    // To protect from overposting attacks, enable the specific properties you want to bind to.
-    // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
     public async Task<IActionResult> Create(AppUser appUser)

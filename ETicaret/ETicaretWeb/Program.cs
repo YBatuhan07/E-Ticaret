@@ -1,4 +1,6 @@
 using ETicaretData;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Security.Claims;
 
 namespace ETicaretWeb
 {
@@ -12,6 +14,21 @@ namespace ETicaretWeb
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<DataBaseContext>();
+
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x =>
+            {
+                x.LoginPath = "/Account/SignIn";
+                x.AccessDeniedPath = "/AccessDenied";
+                x.Cookie.Name = "Account";
+                x.Cookie.IsEssential = true;
+                x.Cookie.Expiration = null;
+            });
+
+            builder.Services.AddAuthorization( x =>
+            {
+                x.AddPolicy("AdminPolicy", policy => policy.RequireClaim(ClaimTypes.Role, "Admin"));
+                x.AddPolicy("AdminPolicy", policy => policy.RequireClaim(ClaimTypes.Role, "Admin","User","Customer"));
+            });
 
             var app = builder.Build();
 
@@ -28,6 +45,7 @@ namespace ETicaretWeb
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

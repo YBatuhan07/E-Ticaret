@@ -7,7 +7,7 @@ namespace ETicaretCore.Entities
         [Display(Name = "Id")]
         public int Id { get; set; }
         [Display(Name = "Kampanya ve Duyurular")]
-        public string Name { get; set; }
+        public string Name { get; set; } = default!;
         [Display(Name = "Açıklama")]
         public string? Description { get; set; }
         [Display(Name = "Resim")]

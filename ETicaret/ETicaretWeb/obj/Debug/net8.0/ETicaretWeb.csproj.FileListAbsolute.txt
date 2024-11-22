@@ -263,3 +263,7 @@ C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\obj\Debug\net8.0\refint\ETicare
 C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\obj\Debug\net8.0\ETicaretWeb.pdb
 C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\obj\Debug\net8.0\ETicaretWeb.genruntimeconfig.cache
 C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\obj\Debug\net8.0\ref\ETicaretWeb.dll
+C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\bin\Debug\net8.0\ETicaretWeb.staticwebassets.endpoints.json
+C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\obj\Debug\net8.0\staticwebassets\msbuild.ETicaretWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\bkesk\source\repos\ETicaret\ETicaretWeb\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
