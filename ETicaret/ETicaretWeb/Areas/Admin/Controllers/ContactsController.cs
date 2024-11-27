@@ -5,7 +5,6 @@ using Microsoft.AspNetCore.Mvc;
 namespace ETicaretWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
     public class ContactsController : Controller
     {
         private readonly DataBaseContext _context;

@@ -1889,6 +1889,88 @@
       ]
     },
     {
+      "Route": "img/1280px-columbia-logo-brand.jpg",
+      "AssetFile": "img/1280px-columbia-logo-brand.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UoR7UB/LBlprfJtu6DPRmr6S0YChcjbojyAcGxQrEqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:44:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UoR7UB/LBlprfJtu6DPRmr6S0YChcjbojyAcGxQrEqg="
+        }
+      ]
+    },
+    {
+      "Route": "img/1280px-columbia-logo-brand.qy3t710nlz.jpg",
+      "AssetFile": "img/1280px-columbia-logo-brand.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UoR7UB/LBlprfJtu6DPRmr6S0YChcjbojyAcGxQrEqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:44:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qy3t710nlz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UoR7UB/LBlprfJtu6DPRmr6S0YChcjbojyAcGxQrEqg="
+        },
+        {
+          "Name": "label",
+          "Value": "img/1280px-columbia-logo-brand.jpg"
+        }
+      ]
+    },
+    {
       "Route": "img/Categories/2024-porsche-panamera-turbo-e-hybrid-006-2160.86mfvx6nm1.jpg",
       "AssetFile": "img/Categories/2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg",
       "Selectors": [],
@@ -2381,6 +2463,498 @@
       ]
     },
     {
+      "Route": "img/Categories/iphone-16-and-iphone-16-pro-max-wallpapers-download-for-free-featured-image.jpg",
+      "AssetFile": "img/Categories/iphone-16-and-iphone-16-pro-max-wallpapers-download-for-free-featured-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lqKx5nZ6Y2u0v2euSAKpRLYrG4+Z3khcnAzLT+wDY1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:22:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lqKx5nZ6Y2u0v2euSAKpRLYrG4+Z3khcnAzLT+wDY1s="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/iphone-16-and-iphone-16-pro-max-wallpapers-download-for-free-featured-image.uzeeiuxa45.jpg",
+      "AssetFile": "img/Categories/iphone-16-and-iphone-16-pro-max-wallpapers-download-for-free-featured-image.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lqKx5nZ6Y2u0v2euSAKpRLYrG4+Z3khcnAzLT+wDY1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:22:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uzeeiuxa45"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lqKx5nZ6Y2u0v2euSAKpRLYrG4+Z3khcnAzLT+wDY1s="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/iphone-16-and-iphone-16-pro-max-wallpapers-download-for-free-featured-image.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/istockphoto-147280026-1024x1024.giiiwjg0w6.jpg",
+      "AssetFile": "img/Categories/istockphoto-147280026-1024x1024.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yIWL99+rIJG3FQFXUGxejFfXRGKygIJgvweog+RKtEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:15:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "giiiwjg0w6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yIWL99+rIJG3FQFXUGxejFfXRGKygIJgvweog+RKtEc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/istockphoto-147280026-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/istockphoto-147280026-1024x1024.jpg",
+      "AssetFile": "img/Categories/istockphoto-147280026-1024x1024.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81027"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yIWL99+rIJG3FQFXUGxejFfXRGKygIJgvweog+RKtEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:15:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yIWL99+rIJG3FQFXUGxejFfXRGKygIJgvweog+RKtEc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pexels-conojeghuo-175745.8glwxmhvj8.jpg",
+      "AssetFile": "img/Categories/pexels-conojeghuo-175745.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1486409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mN2Lbe/5jlkDMXTWGcVLRkL7lW0nrq4VtEvGQO3M6J4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:02:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8glwxmhvj8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mN2Lbe/5jlkDMXTWGcVLRkL7lW0nrq4VtEvGQO3M6J4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/pexels-conojeghuo-175745.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pexels-conojeghuo-175745.jpg",
+      "AssetFile": "img/Categories/pexels-conojeghuo-175745.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1486409"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mN2Lbe/5jlkDMXTWGcVLRkL7lW0nrq4VtEvGQO3M6J4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:02:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mN2Lbe/5jlkDMXTWGcVLRkL7lW0nrq4VtEvGQO3M6J4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pexels-element5-1125130.bpo3td194l.jpg",
+      "AssetFile": "img/Categories/pexels-element5-1125130.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1240679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4D7Rzi5Kgo5LkJ2+MH4d3pcvL0361PzwzFikt4Zq9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpo3td194l"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4D7Rzi5Kgo5LkJ2+MH4d3pcvL0361PzwzFikt4Zq9Y="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/pexels-element5-1125130.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pexels-element5-1125130.jpg",
+      "AssetFile": "img/Categories/pexels-element5-1125130.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1240679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4D7Rzi5Kgo5LkJ2+MH4d3pcvL0361PzwzFikt4Zq9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:00:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4D7Rzi5Kgo5LkJ2+MH4d3pcvL0361PzwzFikt4Zq9Y="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pexels-kamo11235-667838.d0yowzvs7w.jpg",
+      "AssetFile": "img/Categories/pexels-kamo11235-667838.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"08EM6ckRENm7nLKGktEGVkOmwgfWxgw+cxZJe+Iv5z0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:59:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d0yowzvs7w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-08EM6ckRENm7nLKGktEGVkOmwgfWxgw+cxZJe+Iv5z0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/pexels-kamo11235-667838.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pexels-kamo11235-667838.jpg",
+      "AssetFile": "img/Categories/pexels-kamo11235-667838.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "566162"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"08EM6ckRENm7nLKGktEGVkOmwgfWxgw+cxZJe+Iv5z0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:59:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-08EM6ckRENm7nLKGktEGVkOmwgfWxgw+cxZJe+Iv5z0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pngtree-a-bright-and-cheerful-laundry-room-with-a-washing-machine-and-photo-image_16083724.2hdwu84n0d.jpg",
+      "AssetFile": "img/Categories/pngtree-a-bright-and-cheerful-laundry-room-with-a-washing-machine-and-photo-image_16083724.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvVKv7hJQ9L6jwRjxDR4kxiWNOKoWMFEzsPJI1nt5jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:21:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2hdwu84n0d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvVKv7hJQ9L6jwRjxDR4kxiWNOKoWMFEzsPJI1nt5jo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/pngtree-a-bright-and-cheerful-laundry-room-with-a-washing-machine-and-photo-image_16083724.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/pngtree-a-bright-and-cheerful-laundry-room-with-a-washing-machine-and-photo-image_16083724.jpg",
+      "AssetFile": "img/Categories/pngtree-a-bright-and-cheerful-laundry-room-with-a-washing-machine-and-photo-image_16083724.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yvVKv7hJQ9L6jwRjxDR4kxiWNOKoWMFEzsPJI1nt5jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:21:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yvVKv7hJQ9L6jwRjxDR4kxiWNOKoWMFEzsPJI1nt5jo="
+        }
+      ]
+    },
+    {
       "Route": "img/Categories/samsung.png",
       "AssetFile": "img/Categories/samsung.png",
       "Selectors": [],
@@ -2541,6 +3115,416 @@
         {
           "Name": "label",
           "Value": "img/Categories/shopping.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (1).4qdwgt780x.jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2419211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCHF6r8NorYyl9U2wrsl3VQhOjOWejI9RiEvQNw8FXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:56:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4qdwgt780x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCHF6r8NorYyl9U2wrsl3VQhOjOWejI9RiEvQNw8FXs="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/wallpaperflare.com_wallpaper (1).jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (1).jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2419211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fCHF6r8NorYyl9U2wrsl3VQhOjOWejI9RiEvQNw8FXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:56:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fCHF6r8NorYyl9U2wrsl3VQhOjOWejI9RiEvQNw8FXs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (2).jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (2).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+OBs2GX2oJwa/30oRZDt78JBzczlPv7W2OjJLCzx7Zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:57:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+OBs2GX2oJwa/30oRZDt78JBzczlPv7W2OjJLCzx7Zo="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (2).ocbiv68832.jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (2).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+OBs2GX2oJwa/30oRZDt78JBzczlPv7W2OjJLCzx7Zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:57:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ocbiv68832"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+OBs2GX2oJwa/30oRZDt78JBzczlPv7W2OjJLCzx7Zo="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/wallpaperflare.com_wallpaper (2).jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (3).jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (3).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3887427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7IZeegrG7C98cpWFW+PE8wcuDabDzdefsshDh8B1dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:10:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7IZeegrG7C98cpWFW+PE8wcuDabDzdefsshDh8B1dI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (3).ttlkyomq7b.jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (3).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3887427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"f7IZeegrG7C98cpWFW+PE8wcuDabDzdefsshDh8B1dI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:10:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ttlkyomq7b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-f7IZeegrG7C98cpWFW+PE8wcuDabDzdefsshDh8B1dI="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/wallpaperflare.com_wallpaper (3).jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (4).jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (4).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2907428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EORnUOmtIsksMrE80tBm6u8x9l/sDauRFETcIdSzGco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:10:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EORnUOmtIsksMrE80tBm6u8x9l/sDauRFETcIdSzGco="
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper (4).w42xzi1rg8.jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper (4).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2907428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EORnUOmtIsksMrE80tBm6u8x9l/sDauRFETcIdSzGco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:10:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w42xzi1rg8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EORnUOmtIsksMrE80tBm6u8x9l/sDauRFETcIdSzGco="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/wallpaperflare.com_wallpaper (4).jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper.3xubtlq8vq.jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1326811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uT2w89hsQJyjVLr6QgZuTDTZmFo1+xn9M04b7cfbL/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:54:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3xubtlq8vq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uT2w89hsQJyjVLr6QgZuTDTZmFo1+xn9M04b7cfbL/4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Categories/wallpaperflare.com_wallpaper.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Categories/wallpaperflare.com_wallpaper.jpg",
+      "AssetFile": "img/Categories/wallpaperflare.com_wallpaper.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1326811"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uT2w89hsQJyjVLr6QgZuTDTZmFo1+xn9M04b7cfbL/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 14:54:46 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uT2w89hsQJyjVLr6QgZuTDTZmFo1+xn9M04b7cfbL/4="
         }
       ]
     },
@@ -2709,6 +3693,744 @@
       ]
     },
     {
+      "Route": "img/Products/asfs.jpg",
+      "AssetFile": "img/Products/asfs.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:40:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/asfs.zcxseega7i.jpg",
+      "AssetFile": "img/Products/asfs.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:40:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcxseega7i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/asfs.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_apple-ipad-pro-5-12-9-1-tb-gri-1.3yuqo9qgpt.jpg",
+      "AssetFile": "img/Products/b_apple-ipad-pro-5-12-9-1-tb-gri-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1WRNnXAQeKzAayBHU0buitDK6+PVT4A79fNJMgU5hak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:30:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3yuqo9qgpt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1WRNnXAQeKzAayBHU0buitDK6+PVT4A79fNJMgU5hak="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_apple-ipad-pro-5-12-9-1-tb-gri-1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_apple-ipad-pro-5-12-9-1-tb-gri-1.jpg",
+      "AssetFile": "img/Products/b_apple-ipad-pro-5-12-9-1-tb-gri-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184968"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1WRNnXAQeKzAayBHU0buitDK6+PVT4A79fNJMgU5hak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:30:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1WRNnXAQeKzAayBHU0buitDK6+PVT4A79fNJMgU5hak="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "AssetFile": "img/Products/b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:25:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_apple-iphone-16-pro-max-1tb-2.v23onfkt4r.jpg",
+      "AssetFile": "img/Products/b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:25:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v23onfkt4r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_apple-iphone-16-pro-max-1tb-2.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_apple-iphone-16-pro-max-1tb-5.5bx0o10oms.jpg",
+      "AssetFile": "img/Products/b_apple-iphone-16-pro-max-1tb-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oWSODsID7lYtQen9Tk3l5ljmR2epSDooU1lJmOtm3m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:26:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5bx0o10oms"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oWSODsID7lYtQen9Tk3l5ljmR2epSDooU1lJmOtm3m0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_apple-iphone-16-pro-max-1tb-5.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_apple-iphone-16-pro-max-1tb-5.jpg",
+      "AssetFile": "img/Products/b_apple-iphone-16-pro-max-1tb-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oWSODsID7lYtQen9Tk3l5ljmR2epSDooU1lJmOtm3m0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:26:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oWSODsID7lYtQen9Tk3l5ljmR2epSDooU1lJmOtm3m0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_arcelik-10120-mx-1.evp7vsu13m.jpg",
+      "AssetFile": "img/Products/b_arcelik-10120-mx-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ug3XS1XhdrNeehNzO6Xl+U9zvsYpnT6FqkDQW56IGmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:37:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "evp7vsu13m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ug3XS1XhdrNeehNzO6Xl+U9zvsYpnT6FqkDQW56IGmw="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_arcelik-10120-mx-1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_arcelik-10120-mx-1.jpg",
+      "AssetFile": "img/Products/b_arcelik-10120-mx-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ug3XS1XhdrNeehNzO6Xl+U9zvsYpnT6FqkDQW56IGmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:37:25 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ug3XS1XhdrNeehNzO6Xl+U9zvsYpnT6FqkDQW56IGmw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_arcelik-278552-ei-1.jpg",
+      "AssetFile": "img/Products/b_arcelik-278552-ei-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zP+KYmiX7LJN7DnYRDm6/xZ9Gzwc18w/wqilspjwAw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:34:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zP+KYmiX7LJN7DnYRDm6/xZ9Gzwc18w/wqilspjwAw8="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_arcelik-278552-ei-1.sgj5ahmubc.jpg",
+      "AssetFile": "img/Products/b_arcelik-278552-ei-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49398"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zP+KYmiX7LJN7DnYRDm6/xZ9Gzwc18w/wqilspjwAw8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:34:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sgj5ahmubc"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zP+KYmiX7LJN7DnYRDm6/xZ9Gzwc18w/wqilspjwAw8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_arcelik-278552-ei-1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_columbia-delta-ridge-ii-down-1.9z3flwi0zu.jpg",
+      "AssetFile": "img/Products/b_columbia-delta-ridge-ii-down-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2mcHNqd9W6Dx+Ur3AU5obtk6TzL7KYS4KS39wsamW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:45:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9z3flwi0zu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2mcHNqd9W6Dx+Ur3AU5obtk6TzL7KYS4KS39wsamW4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_columbia-delta-ridge-ii-down-1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_columbia-delta-ridge-ii-down-1.jpg",
+      "AssetFile": "img/Products/b_columbia-delta-ridge-ii-down-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G2mcHNqd9W6Dx+Ur3AU5obtk6TzL7KYS4KS39wsamW4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:45:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G2mcHNqd9W6Dx+Ur3AU5obtk6TzL7KYS4KS39wsamW4="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_le-petit-marseillais-beyaz-seftali-ve-nektarin-250-ml-5.jpg",
+      "AssetFile": "img/Products/b_le-petit-marseillais-beyaz-seftali-ve-nektarin-250-ml-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:40:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_le-petit-marseillais-beyaz-seftali-ve-nektarin-250-ml-5.zcxseega7i.jpg",
+      "AssetFile": "img/Products/b_le-petit-marseillais-beyaz-seftali-ve-nektarin-250-ml-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81812"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:40:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcxseega7i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HSJBeG/YrP6xL3ZUog8BP0ao4co+veC7JVoQVzOA4b8="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_le-petit-marseillais-beyaz-seftali-ve-nektarin-250-ml-5.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_oral-b-pro-3d-white-canlandiran-ferahlik-75-ml-1.jpg",
+      "AssetFile": "img/Products/b_oral-b-pro-3d-white-canlandiran-ferahlik-75-ml-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:42:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_oral-b-pro-3d-white-canlandiran-ferahlik-75-ml-1.og8o2pze7y.jpg",
+      "AssetFile": "img/Products/b_oral-b-pro-3d-white-canlandiran-ferahlik-75-ml-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:42:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "og8o2pze7y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_oral-b-pro-3d-white-canlandiran-ferahlik-75-ml-1.jpg"
+        }
+      ]
+    },
+    {
       "Route": "img/Products/b_profilo-bd3055iecn-1.calpwi1d4p.jpg",
       "AssetFile": "img/Products/b_profilo-bd3055iecn-1.jpg",
       "Selectors": [],
@@ -2873,6 +4595,88 @@
       ]
     },
     {
+      "Route": "img/Products/b_profilo-cga252z0tr-1 (1).ausd0hm9xs.jpg",
+      "AssetFile": "img/Products/b_profilo-cga252z0tr-1 (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vqi0Qlz0R2OBfli7aLnmA+XAQwC8NIh4ITgFTbh7PGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:35:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ausd0hm9xs"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vqi0Qlz0R2OBfli7aLnmA+XAQwC8NIh4ITgFTbh7PGY="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_profilo-cga252z0tr-1 (1).jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_profilo-cga252z0tr-1 (1).jpg",
+      "AssetFile": "img/Products/b_profilo-cga252z0tr-1 (1).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "164220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vqi0Qlz0R2OBfli7aLnmA+XAQwC8NIh4ITgFTbh7PGY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:35:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vqi0Qlz0R2OBfli7aLnmA+XAQwC8NIh4ITgFTbh7PGY="
+        }
+      ]
+    },
+    {
       "Route": "img/Products/b_sa.1l2olu77zf.jpg",
       "AssetFile": "img/Products/b_sa.jpg",
       "Selectors": [],
@@ -2951,6 +4755,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-FcCG9Il1XhVYdyy3jBWaUqJBPoEDB9OAbKhTqBg2B8U="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-galaxy-s24-ultra-1tb-1.71hiy2m85g.jpg",
+      "AssetFile": "img/Products/b_samsung-galaxy-s24-ultra-1tb-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rc9j7OSCQDWcspNJ/8k08YMiILJPAx+bfJAaRST7Zwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:28:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "71hiy2m85g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rc9j7OSCQDWcspNJ/8k08YMiILJPAx+bfJAaRST7Zwk="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_samsung-galaxy-s24-ultra-1tb-1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-galaxy-s24-ultra-1tb-1.jpg",
+      "AssetFile": "img/Products/b_samsung-galaxy-s24-ultra-1tb-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rc9j7OSCQDWcspNJ/8k08YMiILJPAx+bfJAaRST7Zwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:28:04 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rc9j7OSCQDWcspNJ/8k08YMiILJPAx+bfJAaRST7Zwk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-galaxy-tab-s10-ultra-1.45ee80dz1r.jpg",
+      "AssetFile": "img/Products/b_samsung-galaxy-tab-s10-ultra-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CjlYfSKmjbkEEnGpG/YFYv69xHOUsDhBYa9fSg12JI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:31:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "45ee80dz1r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CjlYfSKmjbkEEnGpG/YFYv69xHOUsDhBYa9fSg12JI="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_samsung-galaxy-tab-s10-ultra-1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-galaxy-tab-s10-ultra-1.jpg",
+      "AssetFile": "img/Products/b_samsung-galaxy-tab-s10-ultra-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90915"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6CjlYfSKmjbkEEnGpG/YFYv69xHOUsDhBYa9fSg12JI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:31:32 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6CjlYfSKmjbkEEnGpG/YFYv69xHOUsDhBYa9fSg12JI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-galaxy-z-fold6-1tb-39.bbiwo9pnmk.jpg",
+      "AssetFile": "img/Products/b_samsung-galaxy-z-fold6-1tb-39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sa8bHtMaPb6pSaxGFo6RER6iaRx7wdwUc9GSRdchFYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:29:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bbiwo9pnmk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sa8bHtMaPb6pSaxGFo6RER6iaRx7wdwUc9GSRdchFYI="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_samsung-galaxy-z-fold6-1tb-39.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-galaxy-z-fold6-1tb-39.jpg",
+      "AssetFile": "img/Products/b_samsung-galaxy-z-fold6-1tb-39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "118238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sa8bHtMaPb6pSaxGFo6RER6iaRx7wdwUc9GSRdchFYI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:29:05 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sa8bHtMaPb6pSaxGFo6RER6iaRx7wdwUc9GSRdchFYI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-ww4000t-ww90t4020ce-ah-beyaz-1.jpg",
+      "AssetFile": "img/Products/b_samsung-ww4000t-ww90t4020ce-ah-beyaz-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3QSpeHaOBLQBhIxxZjui4bITitJEAeAqu9qCZtzqkEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:36:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3QSpeHaOBLQBhIxxZjui4bITitJEAeAqu9qCZtzqkEQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/b_samsung-ww4000t-ww90t4020ce-ah-beyaz-1.t0s8xp003a.jpg",
+      "AssetFile": "img/Products/b_samsung-ww4000t-ww90t4020ce-ah-beyaz-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "95259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3QSpeHaOBLQBhIxxZjui4bITitJEAeAqu9qCZtzqkEQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:36:44 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t0s8xp003a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3QSpeHaOBLQBhIxxZjui4bITitJEAeAqu9qCZtzqkEQ="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/b_samsung-ww4000t-ww90t4020ce-ah-beyaz-1.jpg"
         }
       ]
     },
@@ -3443,6 +5575,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-qy002VWt3KorZzD4II2ESpoP0RMYXw160va5WVbA7zI="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/oral b.jpg",
+      "AssetFile": "img/Products/oral b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:42:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Products/oral b.og8o2pze7y.jpg",
+      "AssetFile": "img/Products/oral b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "125970"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:42:53 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "og8o2pze7y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KMmrlRILr4aJ2LuJVYRytb1nnypw9ZwYrKtQ9VWV0s0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/Products/oral b.jpg"
         }
       ]
     },
@@ -4263,6 +6477,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-jlQ+e/EFjZtWboylkiQotZmd8aUHzjj7rG6D6AVMwPk="
+        }
+      ]
+    },
+    {
+      "Route": "img/apple_logo_black.svg.mqpxkg0a17.png",
+      "AssetFile": "img/apple_logo_black.svg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jlQ+e/EFjZtWboylkiQotZmd8aUHzjj7rG6D6AVMwPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:25:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mqpxkg0a17"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jlQ+e/EFjZtWboylkiQotZmd8aUHzjj7rG6D6AVMwPk="
+        },
+        {
+          "Name": "label",
+          "Value": "img/apple_logo_black.svg.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/apple_logo_black.svg.png",
+      "AssetFile": "img/apple_logo_black.svg.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jlQ+e/EFjZtWboylkiQotZmd8aUHzjj7rG6D6AVMwPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:25:15 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jlQ+e/EFjZtWboylkiQotZmd8aUHzjj7rG6D6AVMwPk="
+        }
+      ]
+    },
+    {
+      "Route": "img/arçelik-logo.wine.cbpz3rx03q.png",
+      "AssetFile": "img/arçelik-logo.wine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFZeP/7ln7bFxsiAI/RtQ1q0aUkNmoNHZhVi5lQtazI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:33:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cbpz3rx03q"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GFZeP/7ln7bFxsiAI/RtQ1q0aUkNmoNHZhVi5lQtazI="
+        },
+        {
+          "Name": "label",
+          "Value": "img/arçelik-logo.wine.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/arçelik-logo.wine.png",
+      "AssetFile": "img/arçelik-logo.wine.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GFZeP/7ln7bFxsiAI/RtQ1q0aUkNmoNHZhVi5lQtazI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:33:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GFZeP/7ln7bFxsiAI/RtQ1q0aUkNmoNHZhVi5lQtazI="
+        }
+      ]
+    },
+    {
+      "Route": "img/b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "AssetFile": "img/b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:25:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0="
+        }
+      ]
+    },
+    {
+      "Route": "img/b_apple-iphone-16-pro-max-1tb-2.v23onfkt4r.jpg",
+      "AssetFile": "img/b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:25:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v23onfkt4r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l7hoGgX72fMU4B919wapuj2EuwXMVMItbWW2NuCwiO0="
+        },
+        {
+          "Name": "label",
+          "Value": "img/b_apple-iphone-16-pro-max-1tb-2.jpg"
         }
       ]
     },
@@ -5169,6 +7629,88 @@
       ]
     },
     {
+      "Route": "img/marsel.png",
+      "AssetFile": "img/marsel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:39:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc="
+        }
+      ]
+    },
+    {
+      "Route": "img/marsel.uyoyizsh2o.png",
+      "AssetFile": "img/marsel.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:39:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uyoyizsh2o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/marsel.png"
+        }
+      ]
+    },
+    {
       "Route": "img/msi.3yy7dpxp67.jpg",
       "AssetFile": "img/msi.jpg",
       "Selectors": [],
@@ -5411,6 +7953,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-6g217yAWDzofFoUzQ23YmquOHk2tbkAKzo6Ok1ig7Fk="
+        }
+      ]
+    },
+    {
+      "Route": "img/png-clipart-le-petit-marseillais-extra-gentle-shower-creme-le-petit-marseillais-french-shower-gel-le-petit-marseillais-lavender-honey-shower-purple-cream-thumbnail.png",
+      "AssetFile": "img/png-clipart-le-petit-marseillais-extra-gentle-shower-creme-le-petit-marseillais-french-shower-gel-le-petit-marseillais-lavender-honey-shower-purple-cream-thumbnail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:39:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc="
+        }
+      ]
+    },
+    {
+      "Route": "img/png-clipart-le-petit-marseillais-extra-gentle-shower-creme-le-petit-marseillais-french-shower-gel-le-petit-marseillais-lavender-honey-shower-purple-cream-thumbnail.uyoyizsh2o.png",
+      "AssetFile": "img/png-clipart-le-petit-marseillais-extra-gentle-shower-creme-le-petit-marseillais-french-shower-gel-le-petit-marseillais-lavender-honey-shower-purple-cream-thumbnail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:39:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uyoyizsh2o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5nD0zvcxSH16dPt0zSUzpbouLzhOyGtwIIqF+o7UVCc="
+        },
+        {
+          "Name": "label",
+          "Value": "img/png-clipart-le-petit-marseillais-extra-gentle-shower-creme-le-petit-marseillais-french-shower-gel-le-petit-marseillais-lavender-honey-shower-purple-cream-thumbnail.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/png-transparent-oral-b-hd-logo-thumbnail.nu2d5ta08w.png",
+      "AssetFile": "img/png-transparent-oral-b-hd-logo-thumbnail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r6iMqagN8jsOedfgt5STsneF5vRfETyNh0aYpCpPID4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:41:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nu2d5ta08w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r6iMqagN8jsOedfgt5STsneF5vRfETyNh0aYpCpPID4="
+        },
+        {
+          "Name": "label",
+          "Value": "img/png-transparent-oral-b-hd-logo-thumbnail.png"
+        }
+      ]
+    },
+    {
+      "Route": "img/png-transparent-oral-b-hd-logo-thumbnail.png",
+      "AssetFile": "img/png-transparent-oral-b-hd-logo-thumbnail.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2842"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r6iMqagN8jsOedfgt5STsneF5vRfETyNh0aYpCpPID4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:41:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r6iMqagN8jsOedfgt5STsneF5vRfETyNh0aYpCpPID4="
         }
       ]
     },

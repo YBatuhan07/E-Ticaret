@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ETicaretWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+    
     public class BrandsController : Controller
     {
         private readonly DataBaseContext _context;
@@ -19,12 +19,14 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Brands
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Brands.ToListAsync());
         }
 
         // GET: Admin/Brands/Details/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -43,6 +45,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Brands/Create
+        [Authorize(policy: "CustomerPolicy")]
         public IActionResult Create()
         {
             return View();
@@ -53,6 +56,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> Create(Brand brand,IFormFile? Logo)
         {
             if (ModelState.IsValid)
@@ -66,6 +70,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Brands/Edit/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -86,6 +91,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> Edit(int id, Brand brand, IFormFile? Logo,bool cbResmiSil = false)
         {
             if (id != brand.Id)
@@ -125,6 +131,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Brands/Delete/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -145,6 +152,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // POST: Admin/Brands/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var brand = await _context.Brands.FindAsync(id);

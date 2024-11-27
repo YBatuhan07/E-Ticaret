@@ -9,3 +9,14 @@ C:\Users\bkesk\source\repos\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.
 C:\Users\bkesk\source\repos\ETicaret\ETicaretCore\obj\Debug\net8.0\refint\ETicaretCore.dll
 C:\Users\bkesk\source\repos\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.pdb
 C:\Users\bkesk\source\repos\ETicaret\ETicaretCore\obj\Debug\net8.0\ref\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\bin\Debug\net8.0\ETicaretCore.deps.json
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\bin\Debug\net8.0\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\bin\Debug\net8.0\ETicaretCore.pdb
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\refint\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\ETicaretCore.pdb
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Debug\net8.0\ref\ETicaretCore.dll

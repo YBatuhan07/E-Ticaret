@@ -13,7 +13,7 @@ namespace ETicaretCore.Entities
         [Display(Name = "Resim")]
         public string? Image { get; set; } // Resim dosyalarını nullable olarak tanımla. Sorun çıkartabilir
         [Display(Name = "Fiyat")]
-        public decimal Price { get; set; }
+        public int Price { get; set; }
         [Display(Name = "Ürün kodu")]
         public string? ProductCode { get; set; }
         [Display(Name = "Stok durumu")]

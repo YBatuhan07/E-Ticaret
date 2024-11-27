@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ETicaretWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+    
     public class ProductsController : Controller
     {
         private readonly DataBaseContext _context;
@@ -20,6 +20,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Products
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Index()
         {
             var dataBaseContext = _context.Products.Include(p => p.Brand).Include(p => p.Category);
@@ -27,6 +28,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Products/Details/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -47,6 +49,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Products/Create
+        [Authorize(policy: "CustomerPolicy")]
         public IActionResult Create()
         {
             ViewData["BrandId"] = new SelectList(_context.Brands, "Id", "Name");
@@ -59,6 +62,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> Create(Product product, IFormFile? Image)
         {
             if (ModelState.IsValid)
@@ -74,6 +78,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Products/Edit/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -96,6 +101,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> Edit(int id, Product product, IFormFile? Image, bool cbResmiSil = false)
         {
             if (id != product.Id)
@@ -138,6 +144,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Products/Delete/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -160,6 +167,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // POST: Admin/Products/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var product = await _context.Products.FindAsync(id);

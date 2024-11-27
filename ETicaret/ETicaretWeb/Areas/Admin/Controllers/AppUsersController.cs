@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ETicaretWeb.Areas.Admin.Controllers;
 
 [Area("Admin")]
-[Authorize]
+[Authorize(policy: "AdminPolicy")]
 public class AppUsersController : Controller
 {
     private readonly DataBaseContext _context;
@@ -18,12 +18,14 @@ public class AppUsersController : Controller
     }
 
     // GET: Admin/AppUsers
+    [Authorize(policy: "CustomerPolicy")]
     public async Task<IActionResult> Index()
     {
         return View(await _context.AppUsers.ToListAsync());
     }
 
     // GET: Admin/AppUsers/Details/5
+    [Authorize(policy: "CustomerPolicy")]
     public async Task<IActionResult> Details(int? id)
     {
         if (id == null)
@@ -42,6 +44,7 @@ public class AppUsersController : Controller
     }
 
     // GET: Admin/AppUsers/Create
+    [Authorize(policy: "CustomerPolicy")]
     public IActionResult Create()
     {
         return View();
@@ -49,6 +52,7 @@ public class AppUsersController : Controller
 
     [HttpPost]
     [ValidateAntiForgeryToken]
+    [Authorize(policy: "AdminPolicy")]
     public async Task<IActionResult> Create(AppUser appUser)
     {
         if (ModelState.IsValid)
@@ -61,6 +65,7 @@ public class AppUsersController : Controller
     }
 
     // GET: Admin/AppUsers/Edit/5
+    [Authorize(policy: "CustomerPolicy")]
     public async Task<IActionResult> Edit(int? id)
     {
         if (id == null)
@@ -81,6 +86,7 @@ public class AppUsersController : Controller
     // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
     [HttpPost]
     [ValidateAntiForgeryToken]
+    [Authorize(policy: "AdminPolicy")]
     public async Task<IActionResult> Edit(int id, AppUser appUser)
     {
         if (id != appUser.Id)
@@ -112,6 +118,7 @@ public class AppUsersController : Controller
     }
 
     // GET: Admin/AppUsers/Delete/5
+    [Authorize(policy: "CustomerPolicy")]
     public async Task<IActionResult> Delete(int? id)
     {
         if (id == null)
@@ -132,6 +139,7 @@ public class AppUsersController : Controller
     // POST: Admin/AppUsers/Delete/5
     [HttpPost, ActionName("Delete")]
     [ValidateAntiForgeryToken]
+    [Authorize(policy: "AdminPolicy")]
     public async Task<IActionResult> DeleteConfirmed(int id)
     {
         var appUser = await _context.AppUsers.FindAsync(id);

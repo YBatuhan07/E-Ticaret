@@ -1,11 +1,17 @@
 ﻿using ETicaretCore.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using System.Reflection;
 
 namespace ETicaretData;
 
 public class DataBaseContext : DbContext
 {
+    private readonly IConfiguration _configuration;
+    public DataBaseContext(IConfiguration configuration)
+    {
+        _configuration = configuration;
+    }
     public DbSet<AppUser> AppUsers { get; set; }
     public DbSet<Brand> Brands { get; set; }
     public DbSet<Category> Categories { get; set; }
@@ -16,12 +22,8 @@ public class DataBaseContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(
-            @"Server=(localdb)\MSSQLLocalDB;
-            Database=ETicaretDb;
-            Trusted_Connection=True;
-            TrustServerCertificate = True"
-            ); 
+        var connectionString = _configuration.GetConnectionString("DefaultConnection");
+        optionsBuilder.UseSqlServer(connectionString);
 
         base.OnConfiguring(optionsBuilder);
     }

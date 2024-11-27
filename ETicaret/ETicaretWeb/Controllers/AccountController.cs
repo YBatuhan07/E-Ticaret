@@ -45,7 +45,8 @@ namespace ETicaretWeb.Controllers
                         var claims = new List<Claim>()
                         { 
                             new(ClaimTypes.Name, account.Name),
-                            new(ClaimTypes.Role, account.IsAdmin ? "Admin" : "Customer"),
+                            new(ClaimTypes.Role, account.IsAdmin ? "Admin" : "User"),
+                            new(ClaimTypes.Role, account.IsCustomer ? "Customer" : "User"),
                             new(ClaimTypes.Email, account.Email),
                             new("UserId", account.Id.ToString()),
                             //new("UserGuid", account.UserGuid.ToString()),

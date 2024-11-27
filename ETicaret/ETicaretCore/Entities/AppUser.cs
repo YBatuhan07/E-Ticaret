@@ -23,6 +23,8 @@ public class AppUser : IEntity
     public bool IsActive { get; set; }
     [DisplayName("Admin mi?")]
     public bool IsAdmin { get; set; }
+    [DisplayName("Satıcı mi?")]
+    public bool IsCustomer { get; set; }
     [DisplayName("Eklenme tarihi")]
     public DateTime CreateDate { get; set; } = DateTime.Now;
     [DisplayName("User Guid")]

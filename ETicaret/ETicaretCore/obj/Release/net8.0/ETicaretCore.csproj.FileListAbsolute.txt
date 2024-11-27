@@ -1,0 +1,11 @@
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\bin\Release\net8.0\ETicaretCore.deps.json
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\bin\Release\net8.0\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\bin\Release\net8.0\ETicaretCore.pdb
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\ETicaretCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\ETicaretCore.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\ETicaretCore.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\ETicaretCore.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\refint\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\ETicaretCore.pdb
+C:\Users\bkesk\Desktop\ETicaret\ETicaretCore\obj\Release\net8.0\ref\ETicaretCore.dll

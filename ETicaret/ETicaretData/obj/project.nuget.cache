@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qp6fea2Asxg=",
+  "dgSpecHash": "9TMGypyvojw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretData\\ETicaretData.csproj",
+  "projectFilePath": "C:\\Users\\bkesk\\Documents\\GitHub\\E-Ticaret\\ETicaret\\ETicaretData\\ETicaretData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bkesk\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\bkesk\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

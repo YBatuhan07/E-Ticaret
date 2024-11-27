@@ -49,9 +49,14 @@
                     <input class="form-check-input" asp-for="IsAdmin" /> @Html.DisplayNameFor(model => model.IsAdmin)
                 </label>
             </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsCustomer" /> @Html.DisplayNameFor(model => model.IsCustomer)
+                </label>
+            </div>
             <div class="form-group mt-2">
                 <input type="submit" value="Ekle" class="btn btn-primary" />
-                <a class="btn btn-primary" asp-action="Index">Geri dön</a>
+                <a class="btn btn-secondary" asp-action="Index">Geri dön</a>
             </div>
         </form>
     </div>

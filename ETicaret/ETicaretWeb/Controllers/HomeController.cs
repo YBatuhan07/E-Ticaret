@@ -36,6 +36,12 @@ namespace ETicaretWeb.Controllers
         {
             return View();
         }
+        [Route("AccessDenied")]
+        public IActionResult AccessDenied()
+        {
+            return View();
+        }
+
         [HttpPost]
         public async Task<IActionResult> ContactUsAsync(Contact contact)
         {

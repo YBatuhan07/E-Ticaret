@@ -34,6 +34,31 @@
 </style>
 
 <main class="form-signin w-100 m-auto">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Giriş Bilgileri</th>
+                <th scope="col">Email</th>
+                <th scope="col">Şifre</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">Satıcı Hesabı</th>
+                <td>s@s.com</td>
+                <td>s</td>
+
+            </tr>
+            <tr>
+                <th scope="row">Müşteri</th>
+                <td>m@m.com</td>
+                <td>m</td>
+
+            </tr>
+
+        </tbody>
+    </table>
     <form asp-action="SignIn">
         <h1 class="h3 mb-3 fw-normal"><img class="mb-1" src="/img/Designer (2).png" alt="" height="57">Giriş Yap</h1>
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>

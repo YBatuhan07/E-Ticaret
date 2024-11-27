@@ -1,0 +1,17 @@
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\bin\Release\net8.0\ETicaretData.deps.json
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\bin\Release\net8.0\ETicaretData.runtimeconfig.json
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\bin\Release\net8.0\ETicaretData.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\bin\Release\net8.0\ETicaretData.pdb
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\bin\Release\net8.0\ETicaretCore.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\bin\Release\net8.0\ETicaretCore.pdb
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.csproj.AssemblyReference.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaret.3330977E.Up2Date
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\refint\ETicaretData.dll
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.pdb
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ETicaretData.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\ETicaret\ETicaretData\obj\Release\net8.0\ref\ETicaretData.dll

@@ -17,7 +17,7 @@ namespace ETicaretData.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.10")
+                .HasAnnotation("ProductVersion", "8.0.11")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -42,6 +42,9 @@ namespace ETicaretData.Migrations
                         .HasColumnType("bit");
 
                     b.Property<bool>("IsAdmin")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsCustomer")
                         .HasColumnType("bit");
 
                     b.Property<string>("Name")
@@ -79,14 +82,15 @@ namespace ETicaretData.Migrations
                         new
                         {
                             Id = 1,
-                            CreateDate = new DateTime(2024, 10, 27, 16, 21, 21, 763, DateTimeKind.Local).AddTicks(5151),
+                            CreateDate = new DateTime(2024, 11, 23, 16, 49, 57, 761, DateTimeKind.Local).AddTicks(7258),
                             Email = "admin@gmail.com",
                             IsActive = true,
                             IsAdmin = true,
+                            IsCustomer = false,
                             Name = "admin",
                             Password = "123456",
                             Surname = "admin",
-                            UserGuid = new Guid("da16958a-7694-4c05-880a-59a5430b4911"),
+                            UserGuid = new Guid("ea20aee7-adb0-4bbd-8f76-4e977488a18d"),
                             UserName = "admin"
                         });
                 });
@@ -170,7 +174,7 @@ namespace ETicaretData.Migrations
                         new
                         {
                             Id = 1,
-                            CreateDate = new DateTime(2024, 10, 27, 16, 21, 21, 763, DateTimeKind.Local).AddTicks(8305),
+                            CreateDate = new DateTime(2024, 11, 23, 16, 49, 57, 762, DateTimeKind.Local).AddTicks(656),
                             IsActive = true,
                             IsTopMenu = true,
                             Name = "Elektronik",
@@ -180,7 +184,7 @@ namespace ETicaretData.Migrations
                         new
                         {
                             Id = 2,
-                            CreateDate = new DateTime(2024, 10, 27, 16, 21, 21, 763, DateTimeKind.Local).AddTicks(8313),
+                            CreateDate = new DateTime(2024, 11, 23, 16, 49, 57, 762, DateTimeKind.Local).AddTicks(665),
                             IsActive = true,
                             IsTopMenu = true,
                             Name = "Bilgisayar",
@@ -299,8 +303,8 @@ namespace ETicaretData.Migrations
                     b.Property<int>("OrderNo")
                         .HasColumnType("int");
 
-                    b.Property<decimal>("Price")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
 
                     b.Property<string>("ProductCode")
                         .HasMaxLength(50)

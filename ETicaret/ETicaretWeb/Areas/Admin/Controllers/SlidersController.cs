@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 namespace ETicaretWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+    
     public class SlidersController : Controller
     {
         private readonly DataBaseContext _context;
@@ -19,12 +19,14 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Sliders
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Sliders.ToListAsync());
         }
 
         // GET: Admin/Sliders/Details/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -43,6 +45,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Sliders/Create
+        [Authorize(policy: "CustomerPolicy")]
         public IActionResult Create()
         {
             return View();
@@ -53,6 +56,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> Create(Slider slider, IFormFile Image)
         {
             if (ModelState.IsValid)
@@ -66,6 +70,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Sliders/Edit/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -84,6 +89,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // POST: Admin/Sliders/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> Edit(int id,Slider slider, IFormFile? Image, bool cbResmiSil = false)
         {
             if (id != slider.Id)
@@ -123,6 +129,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         }
 
         // GET: Admin/Sliders/Delete/5
+        [Authorize(policy: "CustomerPolicy")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -143,6 +150,7 @@ namespace ETicaretWeb.Areas.Admin.Controllers
         // POST: Admin/Sliders/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(policy: "AdminPolicy")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var slider = await _context.Sliders.FindAsync(id);

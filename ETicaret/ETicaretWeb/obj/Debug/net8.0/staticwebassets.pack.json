@@ -1,507 +1,639 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ETicaretWeb.bundle.scp.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ETicaretWeb.bundle.scp.css",
       "PackagePath": "staticwebassets\\ETicaretWeb.q0tcv55lc0.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\401.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\401.html",
       "PackagePath": "staticwebassets\\admin\\401.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\404.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\404.html",
       "PackagePath": "staticwebassets\\admin\\404.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\500.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\500.html",
       "PackagePath": "staticwebassets\\admin\\500.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
       "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\charts.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\charts.html",
       "PackagePath": "staticwebassets\\admin\\charts.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\css\\styles.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\css\\styles.css",
       "PackagePath": "staticwebassets\\admin\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\index.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\index.html",
       "PackagePath": "staticwebassets\\admin\\index.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\js\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\js\\scripts.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\js\\scripts.js",
       "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\layout-sidenav-light.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\layout-sidenav-light.html",
       "PackagePath": "staticwebassets\\admin\\layout-sidenav-light.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\layout-static.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\layout-static.html",
       "PackagePath": "staticwebassets\\admin\\layout-static.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\login.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\login.html",
       "PackagePath": "staticwebassets\\admin\\login.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\password.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\password.html",
       "PackagePath": "staticwebassets\\admin\\password.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\register.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\register.html",
       "PackagePath": "staticwebassets\\admin\\register.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\tables.html",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\admin\\tables.html",
       "PackagePath": "staticwebassets\\admin\\tables.html"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\1200px-lenovo_global_corporate_logo.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\1200px-lenovo_global_corporate_logo.png",
       "PackagePath": "staticwebassets\\img\\1200px-lenovo_global_corporate_logo.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\1280px-columbia-logo-brand.jpg",
+      "PackagePath": "staticwebassets\\img\\1280px-columbia-logo-brand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\2024-porsche-panamera-turbo-e-hybrid-006-2160.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\apple.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\apple.png",
       "PackagePath": "staticwebassets\\img\\Categories\\apple.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\b_profilo-bd3055iecn-1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\b_profilo-bd3055iecn-1.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\b_profilo-bd3055iecn-1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\b_sa.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\b_sa.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\b_sa.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto1.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\foto1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto2.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\foto2.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\foto2.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\samsung.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\iphone-16-and-iphone-16-pro-max-wallpapers-download-for-free-featured-image.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\iphone-16-and-iphone-16-pro-max-wallpapers-download-for-free-featured-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\istockphoto-147280026-1024x1024.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\istockphoto-147280026-1024x1024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\pexels-conojeghuo-175745.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\pexels-conojeghuo-175745.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\pexels-element5-1125130.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\pexels-element5-1125130.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\pexels-kamo11235-667838.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\pexels-kamo11235-667838.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\pngtree-a-bright-and-cheerful-laundry-room-with-a-washing-machine-and-photo-image_16083724.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\pngtree-a-bright-and-cheerful-laundry-room-with-a-washing-machine-and-photo-image_16083724.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\samsung.png",
       "PackagePath": "staticwebassets\\img\\Categories\\samsung.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\shopping.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\shopping.jpg",
       "PackagePath": "staticwebassets\\img\\Categories\\shopping.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Designer (2).png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\wallpaperflare.com_wallpaper (1).jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\wallpaperflare.com_wallpaper (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\wallpaperflare.com_wallpaper (2).jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\wallpaperflare.com_wallpaper (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\wallpaperflare.com_wallpaper (3).jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\wallpaperflare.com_wallpaper (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\wallpaperflare.com_wallpaper (4).jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\wallpaperflare.com_wallpaper (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Categories\\wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets\\img\\Categories\\wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Designer (2).png",
       "PackagePath": "staticwebassets\\img\\Designer (2).png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\apple.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\apple.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\apple.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_profilo-bd3055iecn-1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\asfs.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\asfs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_apple-ipad-pro-5-12-9-1-tb-gri-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_apple-ipad-pro-5-12-9-1-tb-gri-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_apple-iphone-16-pro-max-1tb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_apple-iphone-16-pro-max-1tb-5.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_apple-iphone-16-pro-max-1tb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_arcelik-10120-mx-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_arcelik-10120-mx-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_arcelik-278552-ei-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_arcelik-278552-ei-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_columbia-delta-ridge-ii-down-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_columbia-delta-ridge-ii-down-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_le-petit-marseillais-beyaz-seftali-ve-nektarin-250-ml-5.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_le-petit-marseillais-beyaz-seftali-ve-nektarin-250-ml-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_oral-b-pro-3d-white-canlandiran-ferahlik-75-ml-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_oral-b-pro-3d-white-canlandiran-ferahlik-75-ml-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_profilo-bd3055iecn-1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\b_profilo-bd3055iecn-1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_profilo-bd3055iecn-2.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_profilo-bd3055iecn-2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\b_profilo-bd3055iecn-2.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_sa.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_profilo-cga252z0tr-1 (1).jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_profilo-cga252z0tr-1 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_sa.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\b_sa.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\lenovo.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_samsung-galaxy-s24-ultra-1tb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_samsung-galaxy-s24-ultra-1tb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_samsung-galaxy-tab-s10-ultra-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_samsung-galaxy-tab-s10-ultra-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_samsung-galaxy-z-fold6-1tb-39.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_samsung-galaxy-z-fold6-1tb-39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\b_samsung-ww4000t-ww90t4020ce-ah-beyaz-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\b_samsung-ww4000t-ww90t4020ce-ah-beyaz-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\lenovo.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\lenovo.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_apple-ipad-p.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_apple-ipad-p.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\m_apple-ipad-p.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_lg-oled97m39la-8.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_lg-oled97m39la-8.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\m_lg-oled97m39la-8.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_samsung-.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\m_samsung-.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\m_samsung-.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\msi.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\msi.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\msi.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\2024-porsche-panamera-turbo-e-hybrid-001-2160.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Products\\oral b.jpg",
+      "PackagePath": "staticwebassets\\img\\Products\\oral b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\2024-porsche-panamera-turbo-e-hybrid-001-2160.jpg",
       "PackagePath": "staticwebassets\\img\\Slider\\2024-porsche-panamera-turbo-e-hybrid-001-2160.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (3).jpeg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (3).jpeg",
       "PackagePath": "staticwebassets\\img\\Slider\\designer (3).jpeg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (4).jpeg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (4).jpeg",
       "PackagePath": "staticwebassets\\img\\Slider\\designer (4).jpeg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (5).jpeg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (5).jpeg",
       "PackagePath": "staticwebassets\\img\\Slider\\designer (5).jpeg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (6).jpeg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (6).jpeg",
       "PackagePath": "staticwebassets\\img\\Slider\\designer (6).jpeg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (7).jpeg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\designer (7).jpeg",
       "PackagePath": "staticwebassets\\img\\Slider\\designer (7).jpeg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\foto1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\foto1.jpg",
       "PackagePath": "staticwebassets\\img\\Slider\\foto1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\tasarım.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\Slider\\tasarım.png",
       "PackagePath": "staticwebassets\\img\\Slider\\tasarım.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.jpg",
       "PackagePath": "staticwebassets\\img\\apple.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple.png",
       "PackagePath": "staticwebassets\\img\\apple.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_profilo-bd3055iecn-1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\apple_logo_black.svg.png",
+      "PackagePath": "staticwebassets\\img\\apple_logo_black.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\arçelik-logo.wine.png",
+      "PackagePath": "staticwebassets\\img\\arçelik-logo.wine.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_apple-iphone-16-pro-max-1tb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\b_apple-iphone-16-pro-max-1tb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_profilo-bd3055iecn-1.jpg",
       "PackagePath": "staticwebassets\\img\\b_profilo-bd3055iecn-1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_profilo-bd3055iecn-2.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_profilo-bd3055iecn-2.jpg",
       "PackagePath": "staticwebassets\\img\\b_profilo-bd3055iecn-2.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_sa.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\b_sa.jpg",
       "PackagePath": "staticwebassets\\img\\b_sa.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya1.jpg",
       "PackagePath": "staticwebassets\\img\\kampanya1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya2.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya2.jpg",
       "PackagePath": "staticwebassets\\img\\kampanya2.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya3.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya3.jpg",
       "PackagePath": "staticwebassets\\img\\kampanya3.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya4.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\kampanya4.jpg",
       "PackagePath": "staticwebassets\\img\\kampanya4.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lenovo.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lenovo.jpg",
       "PackagePath": "staticwebassets\\img\\lenovo.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lg_logo_(2014).svg.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\lg_logo_(2014).svg.png",
       "PackagePath": "staticwebassets\\img\\lg_logo_(2014).svg.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg",
       "PackagePath": "staticwebassets\\img\\m_apple-macbook-pro-16-2-m4-max-16cpu-40gpu-mx2w3tu-a-1.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_lg-oled97m39la-8.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\m_lg-oled97m39la-8.jpg",
       "PackagePath": "staticwebassets\\img\\m_lg-oled97m39la-8.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\marsel.png",
+      "PackagePath": "staticwebassets\\img\\marsel.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi.jpg",
       "PackagePath": "staticwebassets\\img\\msi.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi_logo.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\msi_logo.jpg",
       "PackagePath": "staticwebassets\\img\\msi_logo.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\ngc602_webb_5863.jpg",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\ngc602_webb_5863.jpg",
       "PackagePath": "staticwebassets\\img\\ngc602_webb_5863.jpg"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\samsung.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\png-clipart-le-petit-marseillais-extra-gentle-shower-creme-le-petit-marseillais-french-shower-gel-le-petit-marseillais-lavender-honey-shower-purple-cream-thumbnail.png",
+      "PackagePath": "staticwebassets\\img\\png-clipart-le-petit-marseillais-extra-gentle-shower-creme-le-petit-marseillais-french-shower-gel-le-petit-marseillais-lavender-honey-shower-purple-cream-thumbnail.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\png-transparent-oral-b-hd-logo-thumbnail.png",
+      "PackagePath": "staticwebassets\\img\\png-transparent-oral-b-hd-logo-thumbnail.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\samsung.png",
       "PackagePath": "staticwebassets\\img\\samsung.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\img\\vestel_logo.svg.png",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\img\\vestel_logo.svg.png",
       "PackagePath": "staticwebassets\\img\\vestel_logo.svg.png"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\bkesk\\source\\repos\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\bkesk\\Desktop\\ETicaret\\ETicaretWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
